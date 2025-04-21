@@ -4,15 +4,11 @@ Ce dépôt regroupe tous mes projets réalisés dans le cadre du cursus 42. Chaq
 
 ---
 
-## 📂 Projets
-
 ### 🛠️ Libft
 
 [![Libft](https://img.shields.io/badge/Libft-Librairie%20C-blue)]((https://github.com/lolqrdc/42libft))
 
 Libft est une bibliothèque en langage C qui reproduit et étend les fonctions de la bibliothèque standard.
-
----
 
 ### 🖨️ ft_printf
 
@@ -20,15 +16,11 @@ Libft est une bibliothèque en langage C qui reproduit et étend les fonctions d
 
 Reproduction de la fonction printf du langage C avec gestion des différents formats.
 
----
-
 ### 📁 get_next_line
 
 [![get_next_line](https://img.shields.io/badge/get_next_line-Lecture%20ligne%20par%20ligne-yellow)]((https://github.com/lolqrdc/42get_next_line))
 
 Fonction permettant de lire un fichier ligne par ligne via un descripteur de fichier.
-
----
 
 ### 🧮 push_swap
 
@@ -36,7 +28,6 @@ Fonction permettant de lire un fichier ligne par ligne via un descripteur de fic
 
 Programme de tri optimisé utilisant un nombre minimal d’opérations sur des piles.
 
----
 ### 🌄 FdF
 
 [![FdF](https://img.shields.io/badge/FdF-Fil%20de%20Fer%20(Wireframe)-purple)]((https://github.com/lolqrdc/42FdF))
@@ -55,5 +46,3 @@ Pipex est un projet en C qui recrée le fonctionnement des pipes Unix. Il permet
 
 Mini-shell Unix supportant les commandes de base, la gestion des processus et la redirection.
 (projet en duo).
-
----
