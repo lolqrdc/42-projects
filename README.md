@@ -46,3 +46,6 @@ Pipex est un projet en C qui recrée le fonctionnement des pipes Unix. Il permet
 
 Mini-shell Unix supportant les commandes de base, la gestion des processus et la redirection.
 (projet en duo).
+
+🧘 Philosopher
+[![Philosopher](https://img.shields.io/badge/Philosopher-Problème%20des%20philosophes%20d://github.com/lolqrdc/42ph) une implémentation du célèbre problème des philosophes dînantes en C. Ce projet met en œuvre la gestion de la concurrence et de la synchronisation à l’aide de threads et de mutex, simulant le comportement de philosophes partageant des ressources limitées (fourchettes) autour d’une table.
