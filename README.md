@@ -1,7 +1,7 @@
 # 🚀 42-Projects
 
 Bienvenue dans mon portfolio regroupant tous mes projets réalisés dans le cadre du cursus 42.
-Chaque projet dispose de son propre dossier ou dépôt GitHub, listé ci-dessous avec une description succincte.
+Chaque projet dispose de son propre repo GitHub, listé ci-dessous avec une courte description !.
 
 
 ## 🔍 Table des projets
