@@ -1,11 +1,5 @@
 # 🚀 42-Projects
 
-Bienvenue dans mon portfolio regroupant tous mes projets réalisés dans le cadre du cursus 42.
-Chaque projet dispose de son propre repo GitHub, listé ci-dessous avec une courte description !.
-
-
-## 🔍 Table des projets
-
 | Projet          | Description courte                              | Lien GitHub                                      |
 | --------------- | ---------------------------------------------- | ------------------------------------------------|
 | Libft           | Bibliothèque C reproduisant les fonctions standard | [42libft](https://github.com/lolqrdc/42libft)   |
