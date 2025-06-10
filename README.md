@@ -16,16 +16,4 @@ Chaque projet dispose de son propre repo GitHub, listé ci-dessous avec une cour
 | Pipex           | Reproduction des pipes Unix                      | [42pipex](https://github.com/lolqrdc/42pipex)   |
 | minishell       | Mini shell Unix (projet duo)                     | [42_minishell](https://github.com/edwin-anne/42_minishell) |
 | Philosopher     | Problème des philosophes dînantes avec threads  | [42philosophers](https://github.com/lolqrdc/42philosophers) |
-
-
-## ⚙️ Organisation
-
-Pour chaque projet, vous trouverez dans son dépôt :
-
-- Le code source commenté
-- Un README spécifique détaillant le projet, les instructions d’installation et d’utilisation
-
-## 📈 Suivi des nouveautés
-
-Je mets régulièrement à jour ce dépôt avec de nouveaux projets et améliorations. N’hésitez pas à revenir consulter cette page !
-
+| Cub3d           | Créer une vue dynamique au sein d'un labyrinthe | [42cub3d](https://github.com/lolqrdc/42cub3d) |
